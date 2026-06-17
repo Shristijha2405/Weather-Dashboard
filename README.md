@@ -148,7 +148,7 @@ export default defineConfig({
 
 ## 📸 Screenshots
 
-[Add your screenshots here with descriptions]
+<img width="698" height="595" alt="Screenshot 2026-06-17 115046" src="https://github.com/user-attachments/assets/c4f66afd-82bc-4614-a652-74935848ffe7" />
 
 ---
 
