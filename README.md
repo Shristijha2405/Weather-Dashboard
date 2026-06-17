@@ -137,9 +137,7 @@ export default defineConfig({
 - Use environment variables
 - Consider using a backend proxy for production
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👏 Acknowledgments
 
